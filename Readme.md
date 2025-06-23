@@ -1,5 +1,10 @@
 #  Quote of the Day
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+A simple and stylish web app that displays a random motivational quote each time you refresh or click a button. You can also copy or share the quote on WhatsApp.
+
+
 A simple and stylish web app that displays a random motivational quote each time you refresh or click a button. You can also copy or share the quote on WhatsApp.
 
 ---
@@ -31,10 +36,15 @@ README.md → this file (project info)
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
 Made by **Prapthi A**  
 (MCA Student | Web Developer Enthusiast)
 
 ---
+## License
+
+This project is licensed under the **MIT License** – feel free to use, share, and modify it with proper credit.
+
+See the [LICENSE](LICENSE) file for full details.
 
