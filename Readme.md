@@ -4,9 +4,6 @@
 
 A simple and stylish web app that displays a random motivational quote each time you refresh or click a button. You can also copy or share the quote on WhatsApp.
 
-
-A simple and stylish web app that displays a random motivational quote each time you refresh or click a button. You can also copy or share the quote on WhatsApp.
-
 ---
 
 ## Features
