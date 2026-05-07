@@ -1,4 +1,4 @@
-#  Quote of the Day
+# Quote of the Day
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -8,14 +8,14 @@ A simple and stylish web app that displays a random motivational quote each time
 
 ## Features
 
--  Random motivational quote on every load
--  Copy quote to clipboard
--  Share quote on WhatsApp
--  Stylish responsive design
+- Random motivational quote on every load
+- Stylish responsive design
+- Copy quote to clipboard
+- Share quote on WhatsApp
 
 ---
 
-##  How to Run
+## How to Run
 
 1. Open the project in **VS Code**
 2. Open `index.html` file
@@ -24,12 +24,12 @@ A simple and stylish web app that displays a random motivational quote each time
 
 ---
 
-##  Files Included
+## Files Included
+
 index.html → main web page
 style.css → beautiful styling
 script.js → logic for quotes
 README.md → this file (project info)
-
 
 ---
 
