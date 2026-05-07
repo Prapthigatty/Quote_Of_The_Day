@@ -1,5 +1,6 @@
 # Quote of the Day
 
+A simple and stylish web app that displays a random motivational quote each time you refresh or click a button. You can also copy or share the quote on WhatsApp.Give a star if you like it.
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 A simple and stylish web app that displays a random motivational quote each time you refresh or click a button. You can also copy or share the quote on WhatsApp.
